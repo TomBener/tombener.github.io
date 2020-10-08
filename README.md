@@ -2,7 +2,6 @@
 
 🔗 URL: https://retompi.com
 
-<img src="static/images/screenshot-day.png" width=45% />
+![screenshot-day](static/images/screenshot-day.png)
 
-
-<img src="static/images/screenshot-night.png" width=45% />
+![screenshot-night](static/images/screenshot-night.png)
