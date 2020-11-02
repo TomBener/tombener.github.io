@@ -54,6 +54,9 @@ pygmentscodefencesguesssyntax = true
     # Custom CSS
     custom_css = ["css/custom.css"]
 
+    # Custom SCSS
+    customSCSS = []
+
     # Custom JS
     custom_js = []
 
@@ -66,7 +69,7 @@ pygmentscodefencesguesssyntax = true
     name = "Digital Garden"
     icon = "fa fa-leaf"
     weight = 2
-    url = "https://digital-garden.retompi.com"
+    url = "https://retompi.com/archived-blog"
 [[params.social]]
     name = "GitHub"
     icon = "fa fa-github-alt"
