@@ -15,6 +15,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: latest
+          extended: true
 
       - name: Build 
         run: hugo
@@ -24,5 +25,5 @@ jobs:
         with:
           personal_token: ${{ secrets.personal_token }} # personal_token
           PUBLISH_BRANCH: gh-pages  # 推送到当前 gh-pages 分支
-          PUBLISH_DIR: ./public  # hugo 生成到 public 作为根目录
+          PUBLISH_DIR: ./public  # Hugo 生成到 public 作为根目录
           commit_message: ${{ github.event.head_commit.message }}
