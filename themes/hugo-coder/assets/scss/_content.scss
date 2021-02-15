@@ -4,6 +4,11 @@
   margin-top: 1.6rem;
   margin-bottom: 3.2rem;
   article {
+    details {
+      summary {
+        cursor: pointer;
+      }
+    }
     header {
       margin-top: 6.4rem;
       margin-bottom: 3.2rem;
@@ -97,7 +102,7 @@
         font-size: 1.8rem;
         flex:2;
         color: $fg-color;
-        font-family: $heading-font-family;
+        font-family: $font-family;
         font-weight: 700;
         &:hover,
         &:focus {
