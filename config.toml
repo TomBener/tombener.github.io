@@ -68,11 +68,11 @@ pygmentsCodeFencesGuessSyntax = true
     icon = "fa fa-cube"
     weight = 1
     url = "https://blog.retompi.com"
-[[params.social]]
-    name = "Newsletter"
-    icon = "fa fa-at"
-    weight = 2
-    url = "https://newsletter.retompi.com"
+# [[params.social]]
+#     name = "Newsletter"
+#     icon = "fa fa-at"
+#     weight = 2
+#     url = "https://newsletter.retompi.com"
 [[params.social]]
     name = "GitHub"
     icon = "fa fa-github-alt"
