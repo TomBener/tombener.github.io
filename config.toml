@@ -76,25 +76,25 @@ pygmentsCodeFencesGuessSyntax = true
 [[params.social]]
     name = "GitHub"
     icon = "fa fa-github-alt"
-    weight = 6
+    weight = 4
     url = "https://github.com/TomBener"
 [[params.social]]
     name = "Twitter"
     icon = "fa fa-twitter"
-    weight = 5
+    weight = 3
     url = "https://twitter.com/TomBener"
 [[params.social]]
     name = "Telegram"
     icon = "fa fa-telegram"
-    weight = 4
-    url = "https://t.me/tombener"
+    weight = 2
+    url = "https://t.me/tombenor"
 [[params.social]]
     name = "Email"
     icon = "fa fa-envelope"
-    weight = 3
+    weight = 5
     url = "mailto:retompi@gmail.com"
 [[params.social]]
     name = "Sspai"
     icon = "fa fa-bolt"
-    weight = 2
+    weight = 6
     url = "https://sspai.com/u/tomben"
